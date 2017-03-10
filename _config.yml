@@ -5,7 +5,7 @@ baseurl:
 url: http://blog.trsboy.com
 date_format: "ordinal"
 title: trsboy
-subtitle: "打码改变人生"
+subtitle: "我的天"
 description: "郭延微的个人博客"
 keywords: trsboy, guoyanwei
 favicon: /favicon.ico
@@ -82,7 +82,7 @@ repository: 18640869382/18640869382.github.io
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
+github_username: guoyanwei
 douban_username: freedim
 facebook_username: mzlogin
 weibo_username: mzlogin
