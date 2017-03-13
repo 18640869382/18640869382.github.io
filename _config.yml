@@ -4,9 +4,9 @@
 baseurl:
 url: http://blog.trsboy.com
 date_format: "ordinal"
-title: trsboy
-subtitle: "我的天"
-description: "郭延微的个人博客"
+title: "Trsboy"
+subtitle: "郭延微的博客"
+description: "Trsboy"
 keywords: trsboy, guoyanwei
 favicon: /favicon.ico
 timezone: Asia/Shanghai
@@ -42,9 +42,9 @@ navs:
     href: /links/
     label: 链接
 
-  -
-    href: /about/
-    label: 关于
+ # -
+  #  href: /about/
+  #  label: 关于
 
 # ---------------- #
 #       RSS        #
@@ -83,11 +83,11 @@ repository: 18640869382/18640869382.github.io
 #      Socials     #
 # ---------------- #
 github_username: guoyanwei
-douban_username: freedim
-facebook_username: mzlogin
-weibo_username: mzlogin
-zhihu_username: mzlogin
-twitter_username: mzlogin
+#douban_username: freedim
+#facebook_username: mzlogin
+#weibo_username: mzlogin
+#zhihu_username: mzlogin
+#twitter_username: mzlogin
 
 # ---------------- #
 #      Comments    #
